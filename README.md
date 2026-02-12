@@ -1,9 +1,5 @@
 # Taller de ML 2026
 
-+++ {"part": "abstract"}
-This is my abstract!
-+++
-
 # Introducción a Machine Learning para Docentes de Escuela Superior 2026
 
 Workshop práctico de cinco días diseñado para introducir conceptos fundamentales de **Machine Learning** a docentes de escuela superior, con enfoque en aplicaciones educativas y proyectos implementables en el salón de clases.
