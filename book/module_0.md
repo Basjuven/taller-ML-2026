@@ -54,7 +54,7 @@ Machine Learning se alimenta de **datos**. La forma más común de trabajar dato
 
 ---
 
-## 0.3 Pandas esencial para ML (sin sobrecargar)
+## 0.3 Pandas esencial para ML
 
 Pandas te permite tratar datos como Excel, pero con el poder de Python.
 
@@ -79,7 +79,7 @@ Entregar un dataset pequeño (ventas, clima, sensores) y pedir:
 
 ---
 
-## 0.4 Numpy ultra básico (lo necesario para no asustarse)
+## 0.4 Numpy básico
 
 La mayoría de librerías de ML internamente trabajan con **vectores** y **matrices**.  
 Numpy hace eso eficiente.
@@ -95,7 +95,7 @@ Numpy hace eso eficiente.
 
 ---
 
-## 0.5 Visualización mínima (para “ver” los datos)
+## 0.5 Visualización mínima
 
 Antes de ML, conviene aprender a ver tendencias:
 
